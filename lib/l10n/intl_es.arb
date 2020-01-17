@@ -1,0 +1,21 @@
+{
+  "title": "Aplicación Meteorológica",
+  "@title": {
+    "description": "Title for the Weather application",
+    "type": "text"
+  },
+
+  "button": "obtener el clima",
+  "@button": {
+    "description": "get weather button",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "txt": "Hola mundo",
+  "@title": {
+    "description": "hi",
+    "type": "text",
+    "placeholders": {}
+  },
+}
